@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Fernando Alves}!</strong>
+## 💜 Olá, meu nome é <strong>Fernando Alves!</strong>
 
 > Full Stack Developer. <br>
 🔭 Atualmente trabalhando na SegLabs.
