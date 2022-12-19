@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Fernando Alves!</strong>
 
-> Full Stack Developer. <br>
+Full Stack Developer. <br>
 🔭 Atualmente trabalhando na SegLabs.
 
 💬 Gosto de aprender novas tecnologias e fazer coisas interessantes com elas.
